@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @BaneleJerry
-- 👀 I’m interested in Programming, with a focus on Java, HTML, CSS, and currently delving into JavaScript.
-- 🌱 I’m currently a student pursuing a Diploma in System Development, with a keen emphasis on enhancing my Java programming skills.
-- 💼 I have hands-on experience in developing diverse projects, including an online bakery ordering system, academic record maintenance application, photography portfolio website, and a Flask-based notepad application.
-- 🚀 I'm passionate about creating user-friendly applications and currently exploring advanced Java concepts and web development technologies.
-- 💞️ I’m open to collaboration and eager to learn, though as a student, I am still gaining confidence in my skills.
-- 📫 How to reach me: Banelethabede@outlook.com
+# 👋 Hi, I’m @BaneleJerry
 
-<!---
-BaneleJerry/BaneleJerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💻 About Me
+- **Backend Developer** | Java, Spring Boot, Golang  
+- **Frontend Basics** | HTML, CSS, learning JavaScript  
+- **Focus** | Building scalable, enterprise-ready applications  
+
+---
+
+## 🌱 Current Learning
+- Advanced **Java** concepts  
+- **OAuth2, JWT, RBAC** in authentication services  
+- **Web development frameworks** & best practices  
+
+---
+
+## 💼 Experience & Projects
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| Movie Reservation System | Java, Spring Boot, PostgreSQL, Redis, JWT | Full backend with authentication, roles, and seat booking |
+| Online Bakery Ordering | Java, HTML, CSS | Frontend + backend for product selection & ordering |
+| Academic Records App | Java | Manage student grades and reports |
+| Photography Portfolio | HTML, CSS | Responsive website showcasing photography work |
+| Notepad App | Python, Flask | Simple note-taking web application |
+
+---
+
+## 🚀 Interests
+- Building **user-friendly applications**  
+- Exploring **advanced backend & web technologies**  
+- Continuous learning & collaboration  
+
+---
+
+## 📫 Contact
+- **Email:** Banelethabede@outlook.com  
+- **GitHub:** [github.com/BaneleJerry](https://github.com/BaneleJerry)
+
+---
